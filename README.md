@@ -1,7 +1,5 @@
-stuff
+i make stuff sometimes.
 
-i am simply cubing but im not simply cubing
+also why is the readme.md LaTeX so weird
 
-i make random projects sometimes
-
-also i like math
+$e^{i\pi} = \cos(\pi) + i\sin(\pi)$ why is every letter weirdly aligned. idk
